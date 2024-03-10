@@ -1,0 +1,1665 @@
+[
+  {
+    "tagName": "?xml",
+    "attributes": {
+      "version": "1.0",
+      "encoding": "UTF-8"
+    },
+    "children": [
+      {
+        "tagName": "plist",
+        "attributes": {
+          "version": "1.0"
+        },
+        "children": [
+          {
+            "tagName": "dict",
+            "attributes": {},
+            "children": [
+              {
+                "tagName": "key",
+                "attributes": {},
+                "children": [
+                  "name"
+                ]
+              },
+              {
+                "tagName": "string",
+                "attributes": {},
+                "children": [
+                  "Browse"
+                ]
+              },
+              {
+                "tagName": "key",
+                "attributes": {},
+                "children": [
+                  "settings"
+                ]
+              },
+              {
+                "tagName": "array",
+                "attributes": {},
+                "children": [
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "background"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#d9dee5"
+                            ]
+                          },
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#222222"
+                            ]
+                          },
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "caret"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#367cc055"
+                            ]
+                          },
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "lineHighlight"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#367cc055"
+                            ]
+                          },
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "gutter"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#d9dee5"
+                            ]
+                          },
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "invisibles"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#88222233"
+                            ]
+                          },
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "selection"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#22222233"
+                            ]
+                          },
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "selectionBorder"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#22222233"
+                            ]
+                          },
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "inactiveSelection"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#22222219"
+                            ]
+                          },
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "shadow"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#d9dee5"
+                            ]
+                          },
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "shadowWidth"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "16"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Project Symbols > Star"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "punctuation.definition.projects.star.symbol.outline"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#222222"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Project Symbols > Chevron"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "punctuation.definition.projects.chevron.symbol.outline"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#222222"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Project Path"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "string.name.project_path.outline"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#707e8b"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "File/Dir Symbols"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "punctuation.definition.directory.symbol.outline, punctuation.definition.file.symbol.outline, outline.item.parent_dir"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#222222"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Dir Slash"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "punctuation.definition.directory.slash.outline"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#222222"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "File Extension"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "string.name.file.extension.outline"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#222222"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Dir Name"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "string.name.directory.outline, string.name.project.outline"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "fontStyle"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "bold"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Header"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "header.outline"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#707e8b"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Header punctuations"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "header.outline punctuation.definition.separator.outline"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#6f798733"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Header Rename Mode Title"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "punctuation.definition.rename_mode"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#E99023"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Marked"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "outline.marked"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#FFFFFF"
+                            ]
+                          },
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "background"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#4b96d6"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Help: Table Name"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "outline.help.header"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#707E8B"
+                            ]
+                          },
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "fontStyle"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "bold"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Help: Table Header"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "outline.table.th"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "background"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#4B96D6"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Help: Table Header > Title"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "outline.table.th title"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#FFFFFF"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Help: Table Header"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "outline.table.tr"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "background"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#FFFFFF"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Help: Table punctuations"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "outline.table.punctuations"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#d9dee5"
+                            ]
+                          },
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "background"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#d9dee5"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Help: Shortcut"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "outline.table.tr command_shortcut"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#D6774B"
+                            ]
+                          },
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "fontStyle"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "bold"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Help: Command Description"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "outline.table.tr command_desc"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#000000"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "Error"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "string.error.outline"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#aa0000"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "VCS Modified"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "item.modified.outline"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "background"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#d9dee0"
+                            ]
+                          },
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#F09609"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "VCS Untracked"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "item.untracked.outline"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "background"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#d9dee0"
+                            ]
+                          },
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "foreground"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#00c406"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "dict",
+                    "attributes": {},
+                    "children": [
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "name"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "VCS Colorblind"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "scope"
+                        ]
+                      },
+                      {
+                        "tagName": "string",
+                        "attributes": {},
+                        "children": [
+                          "item.colorblind.outline"
+                        ]
+                      },
+                      {
+                        "tagName": "key",
+                        "attributes": {},
+                        "children": [
+                          "settings"
+                        ]
+                      },
+                      {
+                        "tagName": "dict",
+                        "attributes": {},
+                        "children": [
+                          {
+                            "tagName": "key",
+                            "attributes": {},
+                            "children": [
+                              "background"
+                            ]
+                          },
+                          {
+                            "tagName": "string",
+                            "attributes": {},
+                            "children": [
+                              "#000000"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tagName": "key",
+                "attributes": {},
+                "children": [
+                  "uuid"
+                ]
+              },
+              {
+                "tagName": "string",
+                "attributes": {},
+                "children": [
+                  "07379361-ce49-4e6c-a03f-26378a7a2131"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
